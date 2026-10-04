@@ -1,4 +1,4 @@
-# PSU_MONITOR_WITH_INA226_ESP32
+
 # PSU_MONITOR_WITH_INA226_ESP32
 
 PSU monitor berbasis **ESP32** dengan tampilan **TFT ST7789 240x240**, sensor arus/tegangan **INA226**, dan sensor suhu heatsink **DS18B20**.
